@@ -1,18 +1,17 @@
-## About Me
+## 👨🏽‍💻 Hello, I'm Matheus!
+<div align="left">
+  <a href="www.linkedin.com/in/sennafz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:matheusynw3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://sennafz.github.io/blog" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=ghost&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/senna.fz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
-🎓 I'm a **high school student** and a **self-taught Computer Science learner**.  
-💻 I focus on **Web Development** and apply all my knowledge to build practical and personal projects.  
-📈 I also have a background as a **Digital Marketing Technician**, which helps me combine coding with strategic thinking.
-
----
-
-### 💻 Technologies I use:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)&nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+💻 I'm a digital marketing professional and web developer, combining both skills to create more efficient and impactful projects.
