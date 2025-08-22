@@ -1,17 +1,6 @@
-## 👨🏽‍💻 Hello, I'm Matheus!
-<div align="left">
-  <a href="www.linkedin.com/in/sennafz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:matheusynw3@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://sennafz.github.io/blog" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=ghost&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/senna.fz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
+## 👨🏽‍💻 Olá, seja bem-vindo(a), eu sou o Matheus Sena!
+<p><strong>Desenvolvedor de software</strong>, <strong>técnico em marketing digital</strong> e <strong>gestor empresarial</strong>. Integro minhas formações para oferecer soluções digitais de <strong>alto padrão</strong>, unindo estratégia, tecnologia e gestão com foco em resultados.</p>
 
-💻 I'm a digital marketing professional and web developer, combining both skills to create more efficient and impactful projects.
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matheusynw3@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/senna.fz)
+[![Currículo](https://img.shields.io/badge/-Currículo-0A66C2?style=flat&logo=readme&logoColor=white)](sennafz.vercel.app)
